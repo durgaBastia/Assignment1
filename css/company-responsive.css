@@ -1,0 +1,708 @@
+@media only screen and (min-width: 1400px) {
+    .cust-container{
+        width: 1280px;
+    }
+    }
+@media only screen and (max-width: 1400px) and (min-width: 1200px) {}
+
+@media only screen and (max-width: 1900px) {}
+
+@media only screen and (max-width: 1600px) {
+    .zuna-culture .zuna-culture-inner .zuna-culture-img {
+        display: inline-block;
+        min-height: 210px;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+
+}
+
+@media only screen and (max-width: 1199px) {
+    
+}
+/* ========================================= Media screen upto 991px ====================================== */
+@media only screen and (max-width: 991px) {
+   
+    .company .sub-menu{
+        margin-bottom: 30px;
+    }
+    .main-section .about-us-inner .about-us-zuna-logo{
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .main-section .about-us-inner .about-us-heading {
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph1 {
+        padding-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph2{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner {
+        margin-bottom: 35px;
+    }
+    .our-philosophy-section {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .our-philosophy-section .our-philosophy{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner {
+        padding-bottom: 30px;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner .our-philosophy-heading {
+        font-size: 25px;
+        line-height: 28px;
+        padding-bottom: 25px;
+    }
+    .our-philosophy-section .our-philosophy-card .our-vision .card-block {
+        padding: 20px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-title {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .mob-mt{
+        margin-top: 0px;
+    }
+    .extension-section .extension-inner {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .extension-section .extension-inner .extension-heading {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 22px;
+    }
+    .extension-section .extension-inner .extension-content {
+        font-size: 14px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .common-paragraph {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    
+    .careers .careers-inner .careers-at-zuna{
+        width: 100%;
+        padding: 35px 25px 60px 25px;
+        margin: 0 auto;
+    }
+    .extension-section .extension-inner .extension-inner-content{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin:0 auto;
+       }
+    .extension-section .extension-percent{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .extension-section .extension-percent .extension-percent-content {
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .leadership-wrapper{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .common-heading {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .leadership .leadership-info-section {
+        padding-top: 30px;
+    }
+    .leadership {
+        padding-bottom: 60px;
+    }
+    .technology-wrapper{
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin: 0 auto;
+    }
+    .technology-tab-section .nav-pills>li a {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 30px;
+    }
+    .technology {
+        padding-bottom: 70px;
+    }
+    .padb44 {
+        padding-bottom: 30px;
+    }
+    .zuna-culture-wrapper .zuna-culture {
+        padding: 50px 0 50px 0;
+    }
+    .zuna-culture-wrapper .zuna-culture .zuna-culture-subheading {
+        padding: 30px 0 15px 0;
+    }
+    .zuna-culture-wrapper .careers-paragraph1 {
+        font-size: 17px;
+        line-height: 22px
+    }
+    .zuna-culture .zuna-culture-inner .zuna-culture-img {
+        display: inline-block;
+        min-height: 170px;
+    }
+}
+/* ========================================= Media screen upto 767px ====================================== */
+@media only screen and (max-width: 767px) {
+    
+    .company .sub-menu{
+        margin-bottom: 30px;
+    }
+    .main-section .about-us-inner .about-us-zuna-logo{
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .main-section .about-us-inner .about-us-heading {
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph1 {
+        padding-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph2{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner {
+        margin-bottom: 35px;
+    }
+    .our-philosophy-section {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .our-philosophy-section .our-philosophy{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner {
+        padding-bottom: 30px;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner .our-philosophy-heading {
+        font-size: 25px;
+        line-height: 28px;
+        padding-bottom: 25px;
+    }
+    .our-philosophy-section .our-philosophy-card .our-vision .card-block {
+        padding: 20px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-title {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .mob-mt{
+        margin-top: 30px;
+    }
+    .extension-section .extension-inner {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .extension-section .extension-inner .extension-heading {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 22px;
+    }
+    .extension-section .extension-inner .extension-content {
+        font-size: 14px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .common-paragraph {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    
+    .careers .careers-inner .careers-at-zuna{
+        width: 100%;
+        padding: 35px 25px 60px 25px;
+        margin: 0 auto;
+    }
+    .extension-section .extension-inner .extension-inner-content{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin:0 auto;
+       }
+    .extension-section .extension-percent{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .extension-section .extension-percent .extension-percent-content {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .leadership-wrapper{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .common-heading {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .leadership .leadership-info-section {
+        padding-top: 30px;
+    }
+    .leadership {
+        padding-bottom: 60px;
+    }
+    .technology-wrapper{
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin: 0 auto;
+    }
+    .technology-tab-section .nav-pills>li a {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 19px;
+        padding-bottom: 19px;
+        padding-left: 20px;
+    }
+    .technology {
+        padding-bottom: 50px;
+    }
+    .padb44 {
+        padding-bottom: 30px;
+    }
+    span.zuna-culture-img {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .zuna-culture-wrapper .zuna-culture {
+        padding: 50px 0 50px 0;
+    }
+    .company .sub-menu ul li {
+        display: inline-block;
+        padding: 0 25px;
+    }
+    .zuna-culture-wrapper .zuna-culture .zuna-culture-subheading {
+        padding: 30px 0 15px 0;
+    }
+    .zuna-culture-wrapper .careers-paragraph2 {
+        text-align: center;
+        font-size: 15px;
+        line-height: 30px;
+        padding: 0 0 20px 0;
+    }
+    .zuna-culture-wrapper .careers-paragraph1 {
+        font-size: 17px;
+        line-height: 22px
+    }
+    .careers .careers-inner .careers-at-zuna .careers-button {
+        padding: 8px 30px;
+    }
+}
+/* ========================================= Media screen upto 480px ====================================== */
+@media only screen and (max-width: 480px) {
+    .company .sub-menu{
+        margin-bottom: 30px;
+    }
+    .main-section .about-us-inner .about-us-zuna-logo{
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .main-section .about-us-inner .about-us-heading {
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph1 {
+        padding-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph2{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner {
+        margin-bottom: 35px;
+    }
+    .our-philosophy-section {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .our-philosophy-section .our-philosophy{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner {
+        padding-bottom: 30px;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner .our-philosophy-heading {
+        font-size: 25px;
+        line-height: 28px;
+        padding-bottom: 25px;
+    }
+    .our-philosophy-section .our-philosophy-card .our-vision .card-block {
+        padding: 20px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-title {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .mob-mt{
+        margin-top: 30px;
+    }
+    .extension-section .extension-inner {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .extension-section .extension-inner .extension-heading {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 22px;
+    }
+    .extension-section .extension-inner .extension-content {
+        font-size: 14px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .common-paragraph {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    
+    .careers .careers-inner .careers-at-zuna{
+        width: 100%;
+        padding: 30px 20px;
+        margin: 0 auto;
+    }
+    .extension-section .extension-inner .extension-inner-content{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin:0 auto;
+       }
+    .extension-section .extension-percent{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .extension-section .extension-percent .extension-percent-content {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .leadership-wrapper{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .common-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .leadership .leadership-info-section {
+        padding-top: 30px;
+    }
+    .mt25{
+        margin-top: 0px;
+    }
+    .leadership {
+        padding-bottom: 50px;
+    }
+    .technology-wrapper{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .technology .common-paragraph {
+        padding: 20px 0 30px 0;
+    }
+    .technology-tab-section .nav-pills>li a {
+        font-size: 15px;
+        line-height: 18px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 20px;
+    }
+    .technology {
+        padding-bottom: 50px;
+    }
+    .technology-tab-section .right-tab-wrapper .tab-pane {
+        margin-top: 22px;
+    }
+    .padb44 {
+        padding-bottom: 20px;
+    }
+    .careers .careers-inner .careers-at-zuna .careers-paragraph {
+        padding-bottom: 25px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .zuna-culture-wrapper .careers-paragraph1 {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 10px 15px 0 15px;
+    }
+    span.zuna-culture-img {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .company .sub-menu ul li a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .company .sub-menu ul li {
+        display: inline-block;
+        padding: 0 10px;
+    }
+    .zuna-culture-wrapper .careers-paragraph2 {
+        text-align: center;
+        font-size: 15px;
+        line-height: 30px;
+        padding: 0 0 20px 0;
+    }
+    .careers .careers-inner .careers-at-zuna .careers-button {
+        font-size: 16px;
+        line-height: 25px;
+        padding: 8px 20px;
+    }
+    .zuna-culture-wrapper .zuna-culture {
+        padding: 30px 0 30px 0;
+    }
+}
+/* ========================================= Media screen upto 320px ====================================== */
+@media only screen and (max-width: 320px) {
+    .company .sub-menu{
+        margin-bottom: 30px;
+    }
+    .main-section .about-us-inner .about-us-zuna-logo{
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .main-section .about-us-inner .about-us-heading {
+        margin-bottom: 15px;
+    }
+    .main-section .about-us-inner .about-us-content{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 0 auto;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph1 {
+        padding-bottom: 20px;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner .about-us-content .about-us-paragraph2{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .main-section .about-us-inner {
+        margin-bottom: 35px;
+    }
+    .our-philosophy-section {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+    .our-philosophy-section .our-philosophy{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner {
+        padding-bottom: 30px;
+    }
+    .our-philosophy-section .our-philosophy .our-philosophy-inner .our-philosophy-heading {
+        font-size: 25px;
+        line-height: 28px;
+        padding-bottom: 25px;
+    }
+    .our-philosophy-section .our-philosophy-card .our-vision .card-block {
+        padding: 20px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-title {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    .our-philosophy-section .our-philosophy-card .card-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .mob-mt{
+        margin-top: 30px;
+    }
+    .extension-section .extension-inner {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .extension-section .extension-inner .extension-heading {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 22px;
+    }
+    .extension-section .extension-inner .extension-content {
+        font-size: 14px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .common-paragraph {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    
+    .careers .careers-inner .careers-at-zuna{
+        width: 100%;
+        padding: 30px 20px;
+        margin: 0 auto;
+    }
+    .extension-section .extension-inner .extension-inner-content{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin:0 auto;
+       }
+    .extension-section .extension-percent{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .extension-section .extension-percent .extension-percent-content {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .leadership-wrapper{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .common-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .leadership .leadership-info-section {
+        padding-top: 30px;
+    }
+    .mt25{
+        margin-top: 0px;
+    }
+    .leadership {
+        padding-bottom: 50px;
+    }
+    .technology-wrapper{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+    .technology .common-paragraph {
+        padding: 20px 0 30px 0;
+    }
+    .technology-tab-section .nav-pills>li a {
+        font-size: 15px;
+        line-height: 18px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        padding-left: 20px;
+    }
+    .technology {
+        padding-bottom: 50px;
+    }
+    .technology-tab-section .right-tab-wrapper .tab-pane {
+        margin-top: 22px;
+    }
+    .padb44 {
+        padding-bottom: 20px;
+    }
+    .careers .careers-inner .careers-at-zuna .careers-paragraph {
+        padding-bottom: 25px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .zuna-culture-wrapper .careers-paragraph1 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    span.zuna-culture-img {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .company .sub-menu ul li a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .company .sub-menu ul li {
+        display: inline-block;
+        padding: 0 10px;
+    }
+    .zuna-culture-wrapper .careers-paragraph2 {
+        text-align: center;
+        font-size: 15px;
+        line-height: 30px;
+        padding: 0 0 20px 0;
+    }
+    .zuna-culture-wrapper .zuna-culture {
+        padding: 30px 0 30px 0;
+    }
+}

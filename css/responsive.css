@@ -1,0 +1,821 @@
+@media only screen and (max-width: 1900px) {}
+
+@media only screen and (max-width: 1600px) {
+    .navbar-brand {
+        padding-left: 20px;
+        padding-right: 30px;
+    }
+
+    .left-nav .nav-item a.nav-link.logo-text {
+        font-size: 22px;
+        line-height: 35px;
+    }
+
+    .left-nav .nav-item a.nav-link {
+        font-size: 18px;
+        line-height: 25px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .right-nav .nav-item a.nav-link {
+        font-size: 18px;
+        line-height: 25px;
+        padding-right: 30px;
+    }
+
+    .login-btn {
+        min-width: 140px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .login-wrapper {
+        margin-right: 120px;
+    }
+
+    .start-text {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .blue-box p {
+        font-size: 15px;
+        line-height: 20px;
+        padding: 20px 10px 20px 15px;
+    }
+
+    .comm-header {
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .learn-video-sec {
+        height: 250px;
+    }
+
+    .image-text {
+        padding: 12px 23px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .icici-text {
+        font-size: 17px;
+        line-height: 22px;
+        margin-top: 20px;
+    }
+
+    .saving-list li:first-child {
+        margin-right: 30px;
+    }
+
+    .saving-list li {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .text-left {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .text-right {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .year-text {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .select-btn,
+    .unselect-btn {
+        min-width: 100px;
+        height: 45px;
+        font-size: 20px;
+        line-height: 30px;
+        margin-right: 20px;
+    }
+
+    .return-section .teturn-left {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .return-section .teturn-right span {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .return-section .teturn-right {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .return-section {
+        margin-bottom: 50px;
+    }
+
+    .invest-btn {
+        min-width: 250px;
+        height: 50px;
+        font-size: 18px;
+        line-height: 26px;
+        margin-right: 35px;
+    }
+
+    .check-invest-btn {
+        min-width: 280px;
+        height: 50px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .wrapper .top-wrapper {
+        padding-bottom: 55px;
+    }
+
+    .investment-text {
+        font-size: 24px;
+        line-height: 30px;
+        padding-top: 15px;
+        padding-bottom: 45px;
+    }
+
+    .footer-text {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .financial-goal-sec {
+        padding: 15px 0;
+    }
+
+    .comm-text {
+        font-size: 23px;
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+
+    .value-calculator span:nth-child(odd) {
+        font-size: 26px;
+        padding: 10px 65px;
+        line-height: 32px;
+    }
+
+    .value-calculator span:nth-child(even) {
+        font-size: 23px;
+        padding: 10px 40px;
+        line-height: 30px;
+    }
+
+    .next-btn,
+    .login-btn {
+        min-width: 150px;
+        height: 51px;
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .play-sec {
+        width: 50px;
+    }
+    .input-calculation input:first-child {
+        margin-right: 35px;
+        padding: 10px;
+        width: 230px;
+    }
+    .input-calculation input {
+        font-size: 27px;
+        line-height: 35px;
+    }
+    .input-calculation {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .input-calculation input:last-child {
+        margin-left: 35px;
+        margin-right: 35px;
+        width: 140px;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    .left-nav .nav-item a.nav-link.logo-text {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .left-nav .nav-item a.nav-link {
+        font-size: 17px;
+        line-height: 23px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .right-nav .nav-item a.nav-link {
+        font-size: 17px;
+        line-height: 23px;
+        padding-right: 25px;
+    }
+
+    .login-btn {
+        min-width: 145px;
+        height: 48px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .comm-header {
+        font-size: 23px;
+        line-height: 27px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+    .start-text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .blue-box {
+        margin-bottom: 35px;
+        width: 76%;
+    }
+
+    .blue-box p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .saving-list li:first-child {
+        margin-right: 25px;
+    }
+
+    .saving-list li {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .saving-list {
+        margin-bottom: 40px;
+    }
+
+    .text-left {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .invest-section {
+        margin-bottom: 25px;
+    }
+
+    .text-right {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .year-text {
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .btn-sec {
+        margin-bottom: 30px;
+    }
+
+    .select-btn,
+    .unselect-btn {
+        min-width: 85px;
+        height: 40px;
+        font-size: 17px;
+        line-height: 26px;
+        margin-right: 20px;
+    }
+
+    .return-section .teturn-left {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .return-section .teturn-right {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .return-section .teturn-right span {
+        font-size: 19px;
+        line-height: 24px;
+    }
+
+    .invest-btn {
+        min-width: 230px;
+        height: 45px;
+        font-size: 17px;
+        line-height: 25px;
+        margin-right: 30px;
+    }
+
+    .check-invest-btn {
+        min-width: 250px;
+        height: 45px;
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .wrapper .top-wrapper {
+        padding-bottom: 50px;
+    }
+
+    .footer-inner-content {
+        padding: 20px 0 50px 0;
+    }
+
+    .investment-text {
+        font-size: 21px;
+        line-height: 27px;
+        padding-top: 15px;
+        padding-bottom: 40px;
+    }
+
+    .footer-text {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .comm-text {
+        font-size: 21px;
+        line-height: 27px;
+        padding-bottom: 18px;
+    }
+
+    .value-calculator span:nth-child(odd) {
+        font-size: 22px;
+        padding: 10px 60px;
+        line-height: 30px;
+    }
+
+    .value-calculator span:nth-child(even) {
+        font-size: 20px;
+        padding: 10px 37px;
+        line-height: 28px;
+    }
+
+    .value-calculator {
+        margin-bottom: 55px;
+    }
+
+    .next-btn {
+        min-width: 125px;
+        height: 45px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .learn-video-sec {
+        height: 230px;
+    }
+
+    .image-text {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .icici-text {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 19px;
+    }
+
+    .play-sec {
+        width: 37px;
+    }
+    .input-calculation input:first-child {
+        margin-right: 30px;
+        padding: 10px;
+        width: 200px;
+    }
+    .input-calculation input {
+        font-size: 22px;
+        line-height: 27px;
+    }
+    .input-calculation {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .input-calculation input:last-child {
+        margin-left: 30px;
+        margin-right: 30px;
+        width: 120px;
+    }
+
+}
+
+@media only screen and (max-width: 1199px) {
+    .login-btn {
+        min-width: 130px;
+        height: 40px;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+
+    .left-nav .nav-item a.nav-link.logo-text {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .left-nav .nav-item a.nav-link {
+        font-size: 16px;
+        line-height: 22px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .right-nav .nav-item a.nav-link {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .comm-header {
+        font-size: 21px;
+        line-height: 27px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .learn-video-sec {
+        height: 200px;
+    }
+
+    .start-text {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .blue-box {
+        margin-bottom: 30px;
+        width: 86%;
+    }
+
+    .saving-list li {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .select-btn,
+    .unselect-btn {
+        min-width: 76px;
+        height: 37px;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .return-section .teturn-right,
+    .return-section .teturn-left {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .return-section .teturn-right span {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .text-right {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .check-invest-btn {
+        min-width: 230px;
+        height: 42px;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .invest-btn {
+        min-width: 216px;
+        height: 43px;
+        font-size: 15px;
+        line-height: 23px;
+        margin-right: 30px;
+    }
+
+    .investment-text {
+        font-size: 18px;
+        line-height: 24px;
+        padding-top: 15px;
+        padding-bottom: 30px;
+    }
+
+    .footer-text {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .comm-text {
+        font-size: 19px;
+        line-height: 25px;
+        padding-bottom: 15px;
+    }
+
+    .value-calculator span:nth-child(odd) {
+        font-size: 20px;
+        padding: 10px 50px;
+        line-height: 27px;
+    }
+
+    .value-calculator span:nth-child(even) {
+        font-size: 17px;
+        padding: 10px 30px;
+        line-height: 23px;
+    }
+
+    .icici-text {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 15px;
+    }
+    .input-calculation input {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .input-calculation input:first-child {
+        margin-right: 25px;
+        padding: 10px;
+        width: 185px;
+    }
+    .input-calculation {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .input-calculation input:last-child {
+        margin-left: 25px;
+        margin-right: 25px;
+        width: 120px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .navbar-wrapper {
+        padding-top: 0px;
+    }
+
+    .navbar-brand {
+        border-right: none;
+    }
+
+    .mob-nav {
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .right-nav .nav-item a.nav-link {
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 20px;
+    }
+
+    .login-wrapper {
+        display: block !important;
+        margin-left: 20px;
+        margin-right: 0px;
+        margin-top: 10px;
+    }
+
+    .left-nav,
+    .mob-nav {
+        margin-top: 0;
+    }
+
+    .left-nav .nav-item a.nav-link.logo-text {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .navbar-nav.left-nav,
+    .mob-nav {
+        margin-top: 0 !important;
+    }
+
+    form.form-inline.my-2.my-lg-0.right-nav {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* .navbar {
+        padding-bottom: 10px !important;
+        border-bottom: 1px solid #cccccca6;
+        box-shadow: 0px 4px 7px 3px rgba(0, 0, 0, 0.1);
+    } */
+    .footer-text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .cust-lg-9{
+        padding-right: 40px;
+    }
+    .invest-btn {
+        min-width: 175px;
+        height: 43px;
+        font-size: 15px;
+        line-height: 23px;
+        margin-right: 25px;
+    }
+    .investment-text {
+        font-size: 16px;
+        line-height: 21px;
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+    .comm-text {
+        font-size: 17px;
+        line-height: 24px;
+        padding-bottom: 10px;
+    }
+    .value-calculator span:nth-child(odd) {
+        font-size: 18px;
+        padding: 10px 40px;
+        line-height: 25px;
+    }
+    .value-calculator span:nth-child(even) {
+        font-size: 16px;
+        padding: 10px 25px;
+        line-height: 21px;
+    }
+    .input-calculation input:first-child {
+        width: 170px;
+    }
+    .input-calculation input {
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .input-calculation input:last-child {
+        width: 110px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .comm-header {
+        font-size: 17px;
+        line-height: 23px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .image-text {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .play-sec {
+        width: 30px;
+    }
+    .learn-video-sec {
+        height: 160px;
+    }
+    .icici-text {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .cust-lg-9{
+        width: 100%;
+        padding-right: 0px;
+    }
+    .cust-lg-3 {
+        width: 100%;
+    }
+    .blue-box {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .input-calculation input:first-child {
+        width: 150px;
+        margin-right: 20px;
+    }
+    .input-calculation input {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .input-calculation input:last-child {
+        width: 90px;
+        margin-left: 20px;
+    margin-right: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 567px) {
+    .invest-section {
+        margin-bottom: 15px;
+    }
+    .year-text {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .saving-list {
+        margin-bottom: 25px;
+    }
+    .return-section .teturn-left {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .return-section .teturn-right span {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .invest-btn {
+        min-width: 230px;
+        height: 43px;
+        font-size: 14px;
+        line-height: 21px;
+        margin-right: 0px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .check-invest-btn {
+        min-width: 230px;
+        height: 42px;
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 15px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* .input-calculation input:first-child,
+    .input-calculation input:last-child {
+        display: block;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto !important;
+        width: 150px;
+    } */
+    .input-calculation input {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .input-calculation input:first-child {
+        width: 110px;
+        margin-right: 10px;
+    }
+    .input-calculation {
+        font-size: 15px;
+        line-height: 20px;
+    } 
+    .input-calculation input:last-child {
+        width: 60px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .input-calculation input {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .input-calculation input:first-child {
+        width: 100px;
+        margin-right: 10px;
+    }
+    .input-calculation input:last-child {
+        width: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .input-calculation input:first-child,
+    .input-calculation input:last-child {
+        display: block;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto !important;
+        width: 150px;
+        margin-bottom: 15px;
+    }
+    .financial-goal-sec {
+        padding: 15px 0 0px 0;
+    }
+    .next-btn {
+        min-width: 100px;
+        height: 40px;
+        font-size: 15px;
+        line-height: 25px;
+    }
+}
